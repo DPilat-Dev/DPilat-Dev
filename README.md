@@ -1,6 +1,8 @@
 # Hi there 👋
 
-Welcome to my Github, Thanks for being here
+Nice to see you here! My name is David Pilate.
+
+I'm a software engineer located in Seattle, Washington.
 
 <!--## Interests
 

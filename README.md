@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Nice to see you here! My name is David Pilate.
+Nice to see you here! My name is David Pilat.
 
 I'm a software engineer located in Seattle, Washington.
 

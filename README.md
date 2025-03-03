@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Pilat</h1>
 <h3 align="center">A passionate Full-stack engineer from Seatle Washington</h3>
 
-- 🌱 I’m currently learning **NextJs, NodeJs**
+- 🌱 I’m currently learning **NextJs, NodeJs, Typescript, LLM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

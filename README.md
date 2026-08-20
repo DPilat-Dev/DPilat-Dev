@@ -70,11 +70,6 @@ I'm a software engineer who likes keeping production **boring** — resilient de
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DPilat-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=DPilat-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top langs" />
-</p>
-
-<p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=DPilat-Dev&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 

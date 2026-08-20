@@ -1,25 +1,83 @@
-# Hi 👋, I'm David Pilat
+<h1 align="center">Hi, I'm David Pilat 👋</h1>
 
-### An experienced Typescript developer
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DPilat-Dev" alt="DPilat-Dev" /></a> </p>
-
-- 🔭 I'm currently working on **Website Modernization Projects**
-
-- 🌱 I'm currently learning **LLM, and best way to incorporate coding agents, and Cloud Engineering**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/DPilat-Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DPilat-Dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dpilat-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dpilat-dev" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Engineer</b> · Seattle, WA · 8+ years building and stabilizing SaaS platforms
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://dpilat-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dpilat--dev.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/dpilat-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:david.j.pilat@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DPilat-Dev&show_icons=true&locale=en&layout=compact" alt="DPilat-Dev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DPilat-Dev&show_icons=true&locale=en" alt="DPilat-Dev" /></p>
+### 🧑‍💻 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DPilat-Dev&" alt="DPilat-Dev" /></p>
+I'm a software engineer who likes keeping production **boring** — resilient deployments, fast feedback loops, and systems that don't page you at 2am. Day to day I modernize revenue-critical .NET/C# SaaS, consolidate legacy apps into maintainable services, and lean on structured logging, runbooks, and automated CI/CD to cut incidents and shorten MTTR.
 
+- 🔭 **Currently** — modernizing legacy SaaS at Deep Sync; protecting a **$40M** revenue stream while cutting production incidents.
+- 🖥️ **Homelabber** — I run my own **Proxmox** server and self-host everything I can: media, DNS, monitoring, and my own apps. [Live status →](https://status.lonercorp.com)
+- 🤖 **AI for engineering** — not just for SaaS features; I build with coding agents as part of my actual workflow.
+- ⚙️ **Hardware + software** — I care about the whole stack, from the silicon in my rack to the pixels on the page.
+- 🌱 **Learning** — LLM tooling, agentic workflows, and cloud engineering.
+
+---
+
+### 🛠️ Tech I work with
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,java,py" alt="languages" />
+</p>
+
+**Frameworks & Runtime**
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,express,tailwind" alt="frameworks" />
+</p>
+
+**Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,prisma" alt="data" />
+</p>
+
+**Cloud, DevOps & Infra**
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,nginx,grafana,git,githubactions" alt="cloud and devops" />
+</p>
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Apollo](https://github.com/DPilat-Dev/Apollo)** | A Netflix-style web client for Jellyfin, with a per-user match-score algorithm and a one-command Proxmox installer. | React 19 · Vite · TypeScript · Tailwind · TanStack Query · hls.js |
+| **[Personal Hub](https://dpilat-dev.vercel.app)** | My résumé, blog, and project showcase — with a live homelab status page fed straight from my Proxmox rack. | Next.js · TypeScript · Prisma · PostgreSQL · Tailwind |
+
+---
+
+### 🧰 What I've shipped
+
+- **CI/CD** — GitHub Actions pipelines that test, build, and publish artifacts on every PR, cutting manual release steps and errors.
+- **Observability** — structured logging with Serilog + runbooks that shorten troubleshooting and lower MTTR.
+- **Safe deploys** — versioned SQL migration/rollback scripts with verified backups to protect production data.
+- **Retention wins** — drip email + recurring scheduling (Hangfire) that lifted user retention by **10%**.
+- **Integrations** — Stripe, Google Calendar, and Geocoding APIs; an embeddable cross-domain booking form.
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DPilat-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=DPilat-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPilat-Dev&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <i>Keeping production boring, one commit at a time.</i>
+</p>

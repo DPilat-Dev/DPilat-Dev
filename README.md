@@ -75,7 +75,7 @@ I'm a software engineer who likes keeping production **boring** — resilient de
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DPilat-Dev&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=](https://github-stats-extended.vercel.app/api?username=DPilat-Dev&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">

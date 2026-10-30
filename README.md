@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm David Pilat 👋</h1>
 
 <p align="center">
-  <b>Software Engineer</b> · Seattle, WA · 8+ years building and stabilizing SaaS platforms
+  <b>Software Engineer</b> · Lynnwood, WA · Nearly 8 years building .NET backends, APIs, and data pipelines
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 I'm a software engineer who likes keeping production **boring** — resilient deployments, fast feedback loops, and systems that don't page you at 2am. Day to day I modernize revenue-critical .NET/C# SaaS, consolidate legacy apps into maintainable services, and lean on structured logging, runbooks, and automated CI/CD to cut incidents and shorten MTTR.
 
-- 🔭 **Currently** — modernizing legacy SaaS at Deep Sync; protecting a **$40M** revenue stream while cutting production incidents.
+- 🔭 **Currently** — at Deep Sync, managing **86** websites and applications and **16** legacy ETL pipelines that support a **$40M** revenue stream, and moving legacy pipelines to serverless.
 - 🖥️ **Homelabber** — I run my own **Proxmox** server and self-host everything I can: media, DNS, monitoring, and my own apps. [Live status →](https://status.lonercorp.com)
 - 🤖 **AI for engineering** — not just for SaaS features; I build with coding agents as part of my actual workflow.
 - ⚙️ **Hardware + software** — I care about the whole stack, from the silicon in my rack to the pixels on the page.
@@ -28,12 +28,12 @@ I'm a software engineer who likes keeping production **boring** — resilient de
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,java,py" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,java,py,php" alt="languages" />
 </p>
 
 **Frameworks & Runtime**
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,express,tailwind" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,react,nextjs,nodejs,express,tailwind" alt="frameworks" />
 </p>
 
 **Data**
@@ -53,12 +53,19 @@ I'm a software engineer who likes keeping production **boring** — resilient de
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[Apollo](https://github.com/DPilat-Dev/Apollo)** | A Netflix-style web client for Jellyfin, with a per-user match-score algorithm and a one-command Proxmox installer. | React 19 · Vite · TypeScript · Tailwind · TanStack Query · hls.js |
-| **[Personal Hub](https://dpilat-dev.vercel.app)** | My résumé, blog, and project showcase — with a live homelab status page fed straight from my Proxmox rack. | Next.js · TypeScript · Prisma · PostgreSQL · Tailwind |
+| **[Ruckus](https://github.com/DPilat-Dev/Ruckus)** | A self-hosted Discord alternative with guilds, text and voice channels, and screenshare across web and desktop. | TypeScript |
+| **[Personal Hub](https://dpilat.dev/)** | My résumé, blog, and project showcase — with a live homelab status page fed straight from my Proxmox rack. | Next.js · TypeScript · Prisma · PostgreSQL · Tailwind |
 
 ---
 
 ### 🧰 What I've shipped
 
+- **Shared tax service** — replaced flat tax table lookups across **26** websites with one service built on the Avalara API.
+- **Privacy compliance** — a company-wide service that checks datasets and pipelines against California Delete Act (DROP) requests and excludes matching individuals.
+- **Payments** — migrated **10** websites from CyberSource to Stripe with no payment downtime.
+- **Legacy consolidation** — backend services and APIs for a consolidated platform that replaced **6** legacy applications.
+- **Serverless ETL** — moved **3** pipelines from a proprietary C++ DLL and batch file system to event-triggered AWS Lambda functions in Python, improving processing speed **1.5x**.
+- **Geospatial tooling** — a C# API on AWS that generates ZIP code and carrier route polygons from lat/lon lists, cutting that ETL stage from 3 days to 12–24 hours.
 - **CI/CD** — GitHub Actions pipelines that test, build, and publish artifacts on every PR, cutting manual release steps and errors.
 - **Observability** — structured logging with Serilog + runbooks that shorten troubleshooting and lower MTTR.
 - **Safe deploys** — versioned SQL migration/rollback scripts with verified backups to protect production data.
